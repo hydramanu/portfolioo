@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio Pro",
+  "description": "Instantly generate professional portfolio websites using hotlinked images and customizable design templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
